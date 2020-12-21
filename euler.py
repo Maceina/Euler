@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-# Given constantss
+# Given constants
 m = 10
 v0 = 100
 h0 = 30
